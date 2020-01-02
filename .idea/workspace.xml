@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96ad5122-547b-4809-9457-8d9fa51eb774" name="Default Changelist" comment="">
+    <list default="true" id="96ad5122-547b-4809-9457-8d9fa51eb774" name="Default Changelist" comment="Alterando nome de variavel valor para valorTupla&#10;&#10;O nome antigo estava dando conflito com as outras variaveis no codigo.">
+      <change afterPath="$PROJECT_DIR$/tipo_booleano.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +24,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1VlKM2817xNyWWnGGqdlpEvVXOU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -37,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.ChangelistConflict" />
   </component>
-  <component name="RunManager" selected="Python.tipo_float">
+  <component name="RunManager" selected="Python.tipo_booleano">
     <configuration name="dir_e_help" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GuppeUdemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tipo_booleano" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GuppeUdemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tipo_booleano.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tipo_booleano" />
         <item itemvalue="Python.tipo_float" />
         <item itemvalue="Python tests.Doctests in tiposNumeros" />
         <item itemvalue="Python.recebendo_dados_usuario" />
         <item itemvalue="Python.dir_e_help" />
-        <item itemvalue="Python.teste" />
       </list>
     </recent_temporary>
   </component>
@@ -243,30 +245,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="Criado gitignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2" timestamp="1577978853752">
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577980040178">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577978853752" />
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1577978922404">
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577980040178" />
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2" timestamp="1577980720578">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577978922404" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1577978922404">
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577980720578" />
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1577980046324">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577978922404" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1577978922404">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577980046324" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1577980046324">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577978922404" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1577978922404">
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577980046324" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1577980046324">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577978922404" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577980046324" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1577980046324">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577980046324" />
     <state x="301" y="73" key="SettingsEditor" timestamp="1577977233649">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="73" key="SettingsEditor/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577977233649" />
+    <state x="609" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577979867610">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="609" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577979867610" />
     <state x="463" y="180" width="670" height="58" key="search.everywhere.popup" timestamp="1577934691038">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
