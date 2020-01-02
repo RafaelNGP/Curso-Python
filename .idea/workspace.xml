@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ad5122-547b-4809-9457-8d9fa51eb774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tiposNumeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tipo_float.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python tests.Doctests in tiposNumeros">
+  <component name="RunManager" selected="Python.tipo_float">
     <configuration name="dir_e_help" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GuppeUdemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +101,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tipo_float" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GuppeUdemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tipo_float.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Doctests in tiposNumeros" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="GuppeUdemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,6 +142,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tipo_float" />
         <item itemvalue="Python tests.Doctests in tiposNumeros" />
         <item itemvalue="Python.recebendo_dados_usuario" />
         <item itemvalue="Python.dir_e_help" />
@@ -186,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577937195091</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Usando console para realizar expressoes matematicas e guardei os resultados como comentario. &#10;criando e definindo o valor de uma variavel e printando ela uma vez, alem de usar __add__ para testar.">
+      <created>1577976233951</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577976233951</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -194,29 +223,30 @@
     <MESSAGE value="Demonstrando dir e help&#10;&#10;Testando direto no console e apenas uma chamada no codigo, para ver como fazer." />
     <MESSAGE value="Arquivo renomeado&#10;&#10;O arquivo mudou de types para typesAula para nao dar conflito com o arquivo existente com o mesmo nome." />
     <MESSAGE value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Atribuindo valor recebido pelo usuario no console para dentro de uma variavel, simplificando e fazendo casting para caso queira fazer contas com o numero no futuro." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Atribuindo valor recebido pelo usuario no console para dentro de uma variavel, simplificando e fazendo casting para caso queira fazer contas com o numero no futuro." />
+    <MESSAGE value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Usando console para realizar expressoes matematicas e guardei os resultados como comentario. &#10;criando e definindo o valor de uma variavel e printando ela uma vez, alem de usar __add__ para testar." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Usando console para realizar expressoes matematicas e guardei os resultados como comentario. &#10;criando e definindo o valor de uma variavel e printando ela uma vez, alem de usar __add__ para testar." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="454" y="11" key="CommitChangelistDialog2" timestamp="1577937194263">
+    <state x="136" y="11" key="CommitChangelistDialog2" timestamp="1577976233084">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="454" y="11" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577937194263" />
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1577976032657">
+    <state x="136" y="11" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577976233084" />
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1577976735319">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577976032657" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1577976032656">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577976735319" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1577976735319">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577976032656" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1577976032656">
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577976735319" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1577976735319">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577976032656" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1577976032657">
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577976735319" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1577976735319">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577976032657" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577976735319" />
     <state x="463" y="180" width="670" height="58" key="search.everywhere.popup" timestamp="1577934691038">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
