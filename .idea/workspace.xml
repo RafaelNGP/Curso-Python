@@ -19,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="RafaelNGP &lt;rafaelferreira.dev3@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VlKM2817xNyWWnGGqdlpEvVXOU" />
@@ -121,10 +126,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Adicionado &quot;The Zen of Python&quot; ao projeto." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="454" y="25" key="CommitChangelistDialog2" timestamp="1577933326266">
+    <state x="454" y="25" key="CommitChangelistDialog2" timestamp="1577935087088">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="454" y="25" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577933326266" />
+    <state x="454" y="25" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577935087088" />
     <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1577934954291">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
