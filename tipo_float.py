@@ -13,9 +13,9 @@ print(valor)
 print(type(valor))
 
 # Cria uma tupla em vez de float
-valor = 1, 44
-print(valor)
-print(type(valor))
+valorTupla = 1, 44
+print(valorTupla)
+print(type(valorTupla))
 
 # Evitar dupla atribuicao
 valor1,  valor2 = 1, 44
