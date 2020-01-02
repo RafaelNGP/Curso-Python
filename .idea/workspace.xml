@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96ad5122-547b-4809-9457-8d9fa51eb774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tipo_float.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="96ad5122-547b-4809-9457-8d9fa51eb774" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.ChangelistConflict" />
   </component>
   <component name="RunManager" selected="Python.tipo_float">
     <configuration name="dir_e_help" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -163,7 +161,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\horok\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -215,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577976233951</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Usando console para realizar expressoes matematicas e guardei os resultados como comentario.">
+      <created>1577977038317</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577977038317</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,13 +229,14 @@
     <MESSAGE value="Arquivo renomeado&#10;&#10;O arquivo mudou de types para typesAula para nao dar conflito com o arquivo existente com o mesmo nome." />
     <MESSAGE value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Atribuindo valor recebido pelo usuario no console para dentro de uma variavel, simplificando e fazendo casting para caso queira fazer contas com o numero no futuro." />
     <MESSAGE value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Usando console para realizar expressoes matematicas e guardei os resultados como comentario. &#10;criando e definindo o valor de uma variavel e printando ela uma vez, alem de usar __add__ para testar." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Usando console para realizar expressoes matematicas e guardei os resultados como comentario. &#10;criando e definindo o valor de uma variavel e printando ela uma vez, alem de usar __add__ para testar." />
+    <MESSAGE value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Usando console para realizar expressoes matematicas e guardei os resultados como comentario." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Usando console para realizar expressoes matematicas e guardei os resultados como comentario." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="136" y="11" key="CommitChangelistDialog2" timestamp="1577976233084">
+    <state x="136" y="0" key="CommitChangelistDialog2" timestamp="1577977037514">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="136" y="11" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577976233084" />
+    <state x="136" y="0" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577977037514" />
     <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1577976735319">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -247,6 +253,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577976735319" />
+    <state x="301" y="73" key="SettingsEditor" timestamp="1577977233649">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="73" key="SettingsEditor/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577977233649" />
     <state x="463" y="180" width="670" height="58" key="search.everywhere.popup" timestamp="1577934691038">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
