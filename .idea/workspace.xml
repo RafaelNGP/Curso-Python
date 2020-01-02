@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96ad5122-547b-4809-9457-8d9fa51eb774" name="Default Changelist" comment="" />
+    <list default="true" id="96ad5122-547b-4809-9457-8d9fa51eb774" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577977038317</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Criado gitignore">
+      <created>1577977995388</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577977995388</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,13 +239,14 @@
     <MESSAGE value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Atribuindo valor recebido pelo usuario no console para dentro de uma variavel, simplificando e fazendo casting para caso queira fazer contas com o numero no futuro." />
     <MESSAGE value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Usando console para realizar expressoes matematicas e guardei os resultados como comentario. &#10;criando e definindo o valor de uma variavel e printando ela uma vez, alem de usar __add__ para testar." />
     <MESSAGE value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Usando console para realizar expressoes matematicas e guardei os resultados como comentario." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Usando console para realizar expressoes matematicas e guardei os resultados como comentario." />
+    <MESSAGE value="Criado gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado gitignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="136" y="0" key="CommitChangelistDialog2" timestamp="1577977037514">
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2" timestamp="1577977994383">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="136" y="0" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577977037514" />
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577977994383" />
     <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1577976735319">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
