@@ -14,17 +14,17 @@ Para o `not`, o valor do booleano eh invertido.
 
 """
 # Recolhendo os dados
-ativo = input("Ativo? (True/False) ").title()
-logado = input("Logado? (True/False) ").title()
+ativo = input("Ativo? (s/n) ").title()
+logado = input("Logado? (s/n) ").title()
 
 # Convertendo em Booleano
-if ativo == "True":
+if ativo == "S":
     ativo = True
 else:
     ativo = False
 
 # Convertendo em Booleano
-if logado == "True":
+if logado == "S":
     logado = True
 else:
     logado = False
