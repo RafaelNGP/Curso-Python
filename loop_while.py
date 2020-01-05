@@ -25,7 +25,14 @@ while numero <= 10:
     numero += 1
 
 # Em um loop while eh importante que cuidemos do criterio de parada - (Loop infinito)
+# Ex 3
 print()
 resposta = ''
 while resposta != "s":
     resposta = input("Ja acabou Jessica? ")
+
+# Ex 4
+while True:
+    comando = input("Digite 'sair' para sair: ").lower()
+    if comando == "sair":
+        break
