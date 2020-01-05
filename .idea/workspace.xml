@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ad5122-547b-4809-9457-8d9fa51eb774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/loop_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entendendo_ranges.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.ChangelistConflict" />
   </component>
-  <component name="RunManager" selected="Python.loop_for">
+  <component name="RunManager" selected="Python.entendendo_ranges">
     <configuration name="condicionais_if_else_elif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GuppeUdemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +54,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/condicionais_if_else_elif.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="entendendo_ranges" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GuppeUdemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/entendendo_ranges.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,34 +146,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tipo_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GuppeUdemy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tipo_string.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.entendendo_ranges" />
         <item itemvalue="Python.loop_for" />
         <item itemvalue="Python.estruturas_logicas_and_or_not_is" />
         <item itemvalue="Python.condicionais_if_else_elif" />
         <item itemvalue="Python.escopo_de_variaveis" />
-        <item itemvalue="Python.tipo_string" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578179969835</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Commit inicial da aula sobre repeticao for&#10;&#10;Inclui um exemplo que pensei fora da aula, usando print([]) que ainda n foi abordado.">
+      <created>1578183388784</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1578183388784</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,33 +304,34 @@
     <MESSAGE value="Conceitos da aula e teste input&#10;&#10;Testando casting, input e estrutas if, else e elif" />
     <MESSAGE value="Conceitos da aula e teste input&#10;&#10;Criei input pelo console para receber o true or false e converter para boolean e para comparar se as afirmacoes sao verdadeiras ou falsas" />
     <MESSAGE value="Opcao de resposta simplificada&#10;&#10;Em vez de receber um True ou False, agora um s ou n eh esperado, precisando digitar menos." />
-    <option name="LAST_COMMIT_MESSAGE" value="Opcao de resposta simplificada&#10;&#10;Em vez de receber um True ou False, agora um s ou n eh esperado, precisando digitar menos." />
+    <MESSAGE value="Commit inicial da aula sobre repeticao for&#10;&#10;Inclui um exemplo que pensei fora da aula, usando print([]) que ainda n foi abordado." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit inicial da aula sobre repeticao for&#10;&#10;Inclui um exemplo que pensei fora da aula, usando print([]) que ainda n foi abordado." />
   </component>
   <component name="WindowStateProjectService">
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577980040178">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577980040178" />
-    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2" timestamp="1578179968787">
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2" timestamp="1578183388052">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578179968787" />
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1578183030026">
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578183388052" />
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1578185144338">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578183030026" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1578183030025">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578185144338" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1578185144337">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578183030025" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1578183030025">
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578185144337" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1578185144337">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578183030025" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1578183030025">
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578185144337" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1578185144337">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578183030025" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578185144337" />
     <state x="301" y="73" key="SettingsEditor" timestamp="1577977233649">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
