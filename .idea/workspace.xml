@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ad5122-547b-4809-9457-8d9fa51eb774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mapas_aula.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conjuntos_aula.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dicionarios_aula.py" beforeDir="false" afterPath="$PROJECT_DIR$/dicionarios_aula.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,28 @@
       <recent name="B:\Desenvolvimento\GuppeUdemy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mapas_aula">
+  <component name="RunManager" selected="Python.conjuntos_aula">
+    <configuration name="conjuntos_aula" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GuppeUdemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conjuntos_aula.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="dicionarios_aula" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GuppeUdemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,27 +81,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dicionarios_aula.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="listas_aula4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GuppeUdemy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listas_aula4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.conjuntos_aula" />
         <item itemvalue="Python.mapas_aula" />
         <item itemvalue="Python.dicionarios_aula" />
         <item itemvalue="Python.tipo_none" />
         <item itemvalue="Python.tuplas_aulas" />
-        <item itemvalue="Python.listas_aula4" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578362912320</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Conclusao da aula 1 sobre dicionarios e aula sobre mapas (continuacao dicionarios)">
+      <created>1578405546185</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1578405546185</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -383,7 +389,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adicionado &quot;The Zen of Python&quot; ao projeto." />
     <MESSAGE value="Demonstrando dir e help&#10;&#10;Testando direto no console e apenas uma chamada no codigo, para ver como fazer." />
     <MESSAGE value="Arquivo renomeado&#10;&#10;O arquivo mudou de types para typesAula para nao dar conflito com o arquivo existente com o mesmo nome." />
     <MESSAGE value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Atribuindo valor recebido pelo usuario no console para dentro de uma variavel, simplificando e fazendo casting para caso queira fazer contas com o numero no futuro." />
@@ -408,37 +413,38 @@
     <MESSAGE value="Desenvolvimento da aula sobre Tuplas&#10;&#10;apontadas as diferencas entre listas e tuplas, alguns exemplos de utilizacao e como definir." />
     <MESSAGE value="Introducao ao tipo None" />
     <MESSAGE value="Commit inicial sobre aula de dicionarios&#10;&#10;Ainda nao terminado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit inicial sobre aula de dicionarios&#10;&#10;Ainda nao terminado" />
+    <MESSAGE value="Conclusao da aula 1 sobre dicionarios e aula sobre mapas (continuacao dicionarios)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conclusao da aula 1 sobre dicionarios e aula sobre mapas (continuacao dicionarios)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577980040178">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577980040178" />
-    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2" timestamp="1578362911614">
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2" timestamp="1578405545402">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578362911614" />
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578405545402" />
     <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1578359227850">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578359227850" />
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1578404765875">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1578429700566">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578404765875" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1578404765874">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578429700566" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1578429700565">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578404765874" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1578404765874">
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578429700565" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1578429700565">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578404765874" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1578404765874">
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578429700565" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1578429700566">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578404765874" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578429700566" />
     <state x="301" y="73" key="SettingsEditor" timestamp="1578359242247">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
