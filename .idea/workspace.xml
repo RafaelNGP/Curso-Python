@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ad5122-547b-4809-9457-8d9fa51eb774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/definindo_funcoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decimal_aula.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +46,8 @@
       <recent name="B:\Desenvolvimento\GuppeUdemy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.definindo_funcoes">
-    <configuration name="default_dict_aula" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.decimal_aula">
+    <configuration name="decimal_aula" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GuppeUdemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +59,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/default_dict_aula.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decimal_aula.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.decimal_aula" />
         <item itemvalue="Python.definindo_funcoes" />
         <item itemvalue="Python.deque_aula" />
         <item itemvalue="Python.named_tuple_aula" />
         <item itemvalue="Python.ordered_dict_aula" />
-        <item itemvalue="Python.default_dict_aula" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578512553397</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Commit inicial - Udemy">
+      <created>1578520754572</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1578520754572</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -438,7 +445,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Usando console para realizar expressoes matematicas e guardei os resultados como comentario. &#10;criando e definindo o valor de uma variavel e printando ela uma vez, alem de usar __add__ para testar." />
     <MESSAGE value="Criacao do arquivo e desenvolvimento do conceito&#10;&#10;Usando console para realizar expressoes matematicas e guardei os resultados como comentario." />
     <MESSAGE value="Criado gitignore" />
     <MESSAGE value="Aula sobre Strings e usando metodos." />
@@ -463,37 +469,38 @@
     <MESSAGE value="Commit inicial - desenvolvimento dos conceitos de conjuntos matematicos." />
     <MESSAGE value="Commit inicial" />
     <MESSAGE value="Adicionando um espaco no final do codigo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando um espaco no final do codigo." />
+    <MESSAGE value="Commit inicial - Udemy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit inicial - Udemy" />
   </component>
   <component name="WindowStateProjectService">
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577980040178">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577980040178" />
-    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2" timestamp="1578512552640">
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2" timestamp="1578520753661">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578512552640" />
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578520753661" />
     <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1578359227850">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578359227850" />
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1578520451777">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1578521158757">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578520451777" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1578520451776">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578521158757" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1578521158756">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578520451776" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1578520451776">
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578521158756" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1578521158756">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578520451776" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1578520451776">
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578521158756" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1578521158757">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578520451776" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578521158757" />
     <state x="301" y="73" key="SettingsEditor" timestamp="1578359242247">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
