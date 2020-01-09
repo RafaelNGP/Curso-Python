@@ -4,7 +4,6 @@
     <list default="true" id="96ad5122-547b-4809-9457-8d9fa51eb774" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/funcoes_com_retorno_aula.py" beforeDir="false" afterPath="$PROJECT_DIR$/funcoes_com_retorno_aula.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop_for.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -445,7 +444,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578526929018</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="pequena modificação padrões POP8&#10;&#10;Adequação da linha 21, adicionando um espaço entre a vírgula e o número 10.">
+      <created>1578533168684</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1578533168684</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Adicionado o metodo soma_impares. &#10;&#10;O metodo recebe um valor base, que eh esperado ser uma lista, tupla ou range. Fora do metodo tambem foram criadas uma variavel n, que recebe um valor inputado e uma variavel valor_base que usa o valor para criacao de um range. o print() invoca o metodo criado juntando o range do valor inputado como parametro de entrada">
+      <created>1578533456728</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1578533456728</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,8 +473,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Criado gitignore" />
-    <MESSAGE value="Aula sobre Strings e usando metodos." />
     <MESSAGE value="Testando escopo de variaveis" />
     <MESSAGE value="Conceitos da aula e teste input&#10;&#10;Testando casting, input e estrutas if, else e elif" />
     <MESSAGE value="Conceitos da aula e teste input&#10;&#10;Criei input pelo console para receber o true or false e converter para boolean e para comparar se as afirmacoes sao verdadeiras ou falsas" />
@@ -485,17 +496,19 @@
     <MESSAGE value="Adicionando um espaco no final do codigo." />
     <MESSAGE value="Commit inicial - LinkedIn Learning" />
     <MESSAGE value="Commit inicial - Udemy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit inicial - Udemy" />
+    <MESSAGE value="pequena modificação padrões POP8&#10;&#10;Adequação da linha 21, adicionando um espaço entre a vírgula e o número 10." />
+    <MESSAGE value="Adicionado o metodo soma_impares. &#10;&#10;O metodo recebe um valor base, que eh esperado ser uma lista, tupla ou range. Fora do metodo tambem foram criadas uma variavel n, que recebe um valor inputado e uma variavel valor_base que usa o valor para criacao de um range. o print() invoca o metodo criado juntando o range do valor inputado como parametro de entrada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado o metodo soma_impares. &#10;&#10;O metodo recebe um valor base, que eh esperado ser uma lista, tupla ou range. Fora do metodo tambem foram criadas uma variavel n, que recebe um valor inputado e uma variavel valor_base que usa o valor para criacao de um range. o print() invoca o metodo criado juntando o range do valor inputado como parametro de entrada" />
   </component>
   <component name="WindowStateProjectService">
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577980040178">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577980040178" />
-    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2" timestamp="1578533167872">
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2" timestamp="1578533455999">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578533167872" />
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578533455999" />
     <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1578359227850">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

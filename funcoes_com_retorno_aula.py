@@ -12,6 +12,15 @@ Sobre a palavra reservada return:
 from random import random
 
 
+def soma_impares(base):
+    total = 0
+    for numero in base:
+        if numero % 2 != 0:
+            print(f'Valor total: {total} + {numero}')
+            total += numero
+    return total
+
+
 def nova_funcao():
     variavel = True
     if variavel:
@@ -36,6 +45,10 @@ def moeda():
     return "Coroa!"
 
 
+def outra_funcao():
+    return 2, 3, 4, 5
+
+
 # Demonstrando o que eh retorno
 numeros = [1, 2, 3]
 ret_pop = numeros.pop()
@@ -52,11 +65,6 @@ print(quadrado_numero(5))
 print(diz_oi())
 print(nova_funcao())
 
-
-def outra_funcao():
-    return 2, 3, 4, 5
-
-
 num1, num2, num3, num4 = outra_funcao()
 print(num1, num2, num3, num4)
 print(outra_funcao())
@@ -65,16 +73,6 @@ print(type(num1))
 print(type(outra_funcao()))
 
 print(moeda())
-
-
-def soma_impares(base):
-    total = 0
-    for numero in base:
-        if numero % 2 != 0:
-            print(f'Valor total: {total} + {numero}')
-            total += numero
-    return total
-
 
 n = int(input("Com o limite? "))
 valor_base = range(n)
