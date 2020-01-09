@@ -65,3 +65,17 @@ print(type(num1))
 print(type(outra_funcao()))
 
 print(moeda())
+
+
+def soma_impares(base):
+    total = 0
+    for numero in base:
+        if numero % 2 != 0:
+            print(f'Valor total: {total} + {numero}')
+            total += numero
+    return total
+
+
+n = int(input("Com o limite? "))
+valor_base = range(n)
+print(soma_impares(valor_base))
