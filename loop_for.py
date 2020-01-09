@@ -18,7 +18,7 @@ utilizamos loops para iterar sobre sequencias ou sobre valores iteraveis
 
 nome = "Geek University"
 lista = [1, 2, 3, 4, 5]
-numeros = range(1,10)
+numeros = range(1, 10)
 
 for letra in nome:
     print(letra)
