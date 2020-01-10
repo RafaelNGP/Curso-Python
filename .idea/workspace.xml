@@ -486,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578623241127</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Adicionado exemplo de funcao dentro de outra funcao&#10;&#10;tambem foi explorado o conceito de variavel nonlocal (nao eh global, mas tambem nao eh uma local, ou seja, procurar na funcao anterior essa variavel)">
+      <created>1578623767379</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1578623767379</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -503,7 +510,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Conceitos da aula e teste input&#10;&#10;Criei input pelo console para receber o true or false e converter para boolean e para comparar se as afirmacoes sao verdadeiras ou falsas" />
     <MESSAGE value="Opcao de resposta simplificada&#10;&#10;Em vez de receber um True ou False, agora um s ou n eh esperado, precisando digitar menos." />
     <MESSAGE value="Commit inicial da aula sobre repeticao for&#10;&#10;Inclui um exemplo que pensei fora da aula, usando print([]) que ainda n foi abordado." />
     <MESSAGE value="Commit inicial da aula sobre range&#10;&#10;Foram testadas 4 formas de utilizar." />
@@ -528,17 +534,18 @@
     <MESSAGE value="mudando funcoes para o inicio do codigo" />
     <MESSAGE value="Commit inicial - Udemy" />
     <MESSAGE value="Movendo a definicao das funcoes, adicionado um novo exemplo&#10;&#10;Exemplo usando a palavra reservada 'global' para utilizar a variavel que se encontra fora do escopo e tambem uma nova funcao para fazer o teste desse recurso." />
-    <option name="LAST_COMMIT_MESSAGE" value="Movendo a definicao das funcoes, adicionado um novo exemplo&#10;&#10;Exemplo usando a palavra reservada 'global' para utilizar a variavel que se encontra fora do escopo e tambem uma nova funcao para fazer o teste desse recurso." />
+    <MESSAGE value="Adicionado exemplo de funcao dentro de outra funcao&#10;&#10;tambem foi explorado o conceito de variavel nonlocal (nao eh global, mas tambem nao eh uma local, ou seja, procurar na funcao anterior essa variavel)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado exemplo de funcao dentro de outra funcao&#10;&#10;tambem foi explorado o conceito de variavel nonlocal (nao eh global, mas tambem nao eh uma local, ou seja, procurar na funcao anterior essa variavel)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577980040178">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577980040178" />
-    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2" timestamp="1578623240239">
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2" timestamp="1578623766695">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578623240239" />
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578623766695" />
     <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1578359227850">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
