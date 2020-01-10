@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="96ad5122-547b-4809-9457-8d9fa51eb774" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis_locais_globais.py" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis_locais_globais.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcoes_parametro_default.py" beforeDir="false" afterPath="$PROJECT_DIR$/funcoes_parametro_default.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <recent name="B:\Desenvolvimento\GuppeUdemy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.variaveis_locais_globais">
+  <component name="RunManager" selected="Python.funcoes_parametro_default">
     <configuration name="decimal_aula" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GuppeUdemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,8 +154,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.variaveis_locais_globais" />
         <item itemvalue="Python.funcoes_parametro_default" />
+        <item itemvalue="Python.variaveis_locais_globais" />
         <item itemvalue="Python.funcoes_com_retorno_aula" />
         <item itemvalue="Python.loop_for" />
         <item itemvalue="Python.decimal_aula" />
@@ -479,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578622674394</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Movendo a definicao das funcoes, adicionado um novo exemplo&#10;&#10;Exemplo usando a palavra reservada 'global' para utilizar a variavel que se encontra fora do escopo e tambem uma nova funcao para fazer o teste desse recurso.">
+      <created>1578623241127</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1578623241127</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,7 +503,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Conceitos da aula e teste input&#10;&#10;Testando casting, input e estrutas if, else e elif" />
     <MESSAGE value="Conceitos da aula e teste input&#10;&#10;Criei input pelo console para receber o true or false e converter para boolean e para comparar se as afirmacoes sao verdadeiras ou falsas" />
     <MESSAGE value="Opcao de resposta simplificada&#10;&#10;Em vez de receber um True ou False, agora um s ou n eh esperado, precisando digitar menos." />
     <MESSAGE value="Commit inicial da aula sobre repeticao for&#10;&#10;Inclui um exemplo que pensei fora da aula, usando print([]) que ainda n foi abordado." />
@@ -521,37 +527,38 @@
     <MESSAGE value="Adicionado o metodo soma_impares. &#10;&#10;O metodo recebe um valor base, que eh esperado ser uma lista, tupla ou range. Fora do metodo tambem foram criadas uma variavel n, que recebe um valor inputado e uma variavel valor_base que usa o valor para criacao de um range. o print() invoca o metodo criado juntando o range do valor inputado como parametro de entrada" />
     <MESSAGE value="mudando funcoes para o inicio do codigo" />
     <MESSAGE value="Commit inicial - Udemy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit inicial - Udemy" />
+    <MESSAGE value="Movendo a definicao das funcoes, adicionado um novo exemplo&#10;&#10;Exemplo usando a palavra reservada 'global' para utilizar a variavel que se encontra fora do escopo e tambem uma nova funcao para fazer o teste desse recurso." />
+    <option name="LAST_COMMIT_MESSAGE" value="Movendo a definicao das funcoes, adicionado um novo exemplo&#10;&#10;Exemplo usando a palavra reservada 'global' para utilizar a variavel que se encontra fora do escopo e tambem uma nova funcao para fazer o teste desse recurso." />
   </component>
   <component name="WindowStateProjectService">
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577980040178">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1577980040178" />
-    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2" timestamp="1578622673639">
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2" timestamp="1578623240239">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578622673639" />
+    <state x="136" y="0" width="1342" height="849" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578623240239" />
     <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1578359227850">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578359227850" />
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1578623085279">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1578623568336">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578623085279" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1578623085279">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578623568336" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1578623568336">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578623085279" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1578623085278">
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578623568336" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1578623568336">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578623085278" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1578623085279">
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578623568336" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1578623568336">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578623085279" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1578623568336" />
     <state x="301" y="73" key="SettingsEditor" timestamp="1578359242247">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

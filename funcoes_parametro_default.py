@@ -38,3 +38,19 @@ print(mostra_informacao("Geek", True))
 # Uma funcao pode receber tambem como valor default uma outra funcao.
 print(conta(1, 2))
 print(conta(1, 2, subtracao))
+
+# Podemos ter funcoes que sao declaradas dentro de funcoes, e tambem uma forma especial de escopo de variavel
+
+
+def fora():
+    contador = 0
+
+    def dentro():
+        nonlocal contador
+        contador += 1
+        return contador
+    return dentro()
+
+
+print(fora())
+print(fora()*5)
