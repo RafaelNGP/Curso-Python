@@ -56,3 +56,30 @@ print(minha_funcao(18, "Felicity", 4, 5, 6, solteiro=True))
 print(minha_funcao(34, 'Felipe', eu='Nao', voce='Vai'))
 print(minha_funcao(19, 'Carla', 9, 4, 3, java=False, python=True))
 print(minha_funcao(27, "Rafael Abud Ferreira", "Sempre sao 3", solteiro=True, aprendendo="Com certeza"))
+
+
+def mostra_nomes(**kwargs):
+    return f'{kwargs["nome"]} {kwargs["sobrenome"]}'
+
+
+nomes = {'nome': 'Felicity', 'sobrenome': 'Jones'}
+print(mostra_nomes(**nomes))
+
+
+def soma_multiplos_numeros(a=0, b=0, c=0):
+    return print(a+b+c)
+
+
+lista = [1, 2, 3]
+tupla = 1, 2, 3
+conjunto = {1, 2, 3}
+dicionario = dict(a=1, b=2, c=3)
+dicionario2 = {'a': 1, 'b': 2, 'c': 3}
+
+print(soma_multiplos_numeros(*lista))
+print(soma_multiplos_numeros(*tupla))
+print(soma_multiplos_numeros(*conjunto))
+print(soma_multiplos_numeros(**dicionario))
+print(soma_multiplos_numeros(**dicionario2))
+
+# OBS: Os nomes da chave em um dicionario devem ser o mesmo dos parametros da funcao.
