@@ -15,7 +15,6 @@ utilizamos loops para iterar sobre sequencias ou sobre valores iteraveis
 -Listas
 -Range
 """
-
 nome = "Geek University"
 lista = [1, 2, 3, 4, 5]
 numeros = range(1, 10)
@@ -48,8 +47,3 @@ for vezes in range(1, qnt+1):
 for _ in range(3):
     for num in range(1, 11):
         print('\U0001F60D' * num)
-
-# Testando os conceitos de List Comprehension
-soma = 0
-print([f'Somando pela {vezes} vez, o total eh {soma}' for vezes in range(1, qnt+1)])
-# Assim consigo iterar a frase no range ... mas e a soma?
