@@ -27,7 +27,7 @@ print(list(filtrando))
 paises = ['', 'Argentina', '', 'Brasil', 'Chile', '', 'Colombia', '', 'Equador', '', '', ' ']
 paises_filtrados = []
 for items in paises:
-    if items != '':
+    if items != '' and items != " ":
         paises_filtrados.append(items)
 
 print(paises_filtrados)
