@@ -9,6 +9,9 @@ entao o resultado no console desta aula mostra a execucao do codigo importado pr
 linha, que traz o resultado 10, que faz a resolucao da funcao importada soma(5,5).
 
 Se tivesse alguma variavel na importacao, tambem poderia usa-la aqui.
+PS: Para que toda a execucao do modulo nao seja transportada para o programa que a importou, devo utilizar
+uma condicao __name__ == "__main__" na execucao do modulo, para que apenas seja executado caso ele seja
+o programa principal.
 """
 import funcoes_parametro_default as fpd
 import listas_aula as lst
