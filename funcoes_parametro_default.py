@@ -31,17 +31,6 @@ def conta(num1, num2, fun=soma):
     return fun(num1, num2)
 
 
-print(mostra_informacao())
-print(mostra_informacao("Rafael"))
-print(mostra_informacao("Geek", True))
-
-# Uma funcao pode receber tambem como valor default uma outra funcao.
-print(conta(1, 2))
-print(conta(1, 2, subtracao))
-
-# Podemos ter funcoes que sao declaradas dentro de funcoes, e tambem uma forma especial de escopo de variavel
-
-
 def fora():
     contador = 0
 
@@ -52,5 +41,15 @@ def fora():
     return dentro()
 
 
-print(fora())
-print(fora()*5)
+if __name__ == "__main__":
+    print(mostra_informacao())
+    print(mostra_informacao("Rafael"))
+    print(mostra_informacao("Geek", True))
+
+    print(conta(1, 2))
+    print(conta(1, 2, subtracao))
+
+    print(fora())
+    print(fora()*5)
+else:
+    print("Modulo carregado com sucesso.")
