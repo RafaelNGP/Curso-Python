@@ -1,5 +1,7 @@
-limao
-abacaxi
-jaca
-uva
+abacate
+jacare
 morango
+limao
+laranja
+uva
+salada de frutas
